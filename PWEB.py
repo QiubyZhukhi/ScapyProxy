@@ -20,7 +20,7 @@ os.system("clear")
 
 #LOG
 file = "/storage/emulated/0/a/log.txt"
-host = "80.211.151.28:443"
+host = "ping.eu"
 timeout = 3 #3 detik
 def slowprint(s):
     for c in s + '\n':
